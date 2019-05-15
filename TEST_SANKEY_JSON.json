@@ -1,0 +1,28 @@
+{
+   "nodes" : [
+      {
+         "name" : "",
+         "id" : "final_score"
+      },
+      {
+         "name" : "Environment",
+         "id" : "environment_score"
+      },
+      {
+         "name" : "Land use",
+         "id" : "land_use_score"
+      }
+   ],
+   "links" : [
+      {
+         "source" : 0,
+         "value" : 0.342284047256003,
+         "target" : 1
+      },
+      {
+         "value" : 0.32322870366987,
+         "source" : 1,
+         "target" : 2
+      }
+   ]
+}
